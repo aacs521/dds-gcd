@@ -1,0 +1,15 @@
+# quartus
+db/
+incremental_db/
+output_files/
+simulation/
+qdb/
+*.qws
+*_pin_model_dump.txt
+
+# simulation
+build_sim/
+obj_dir/
+*.vcd
+*.ghw
+*.cf
